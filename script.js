@@ -4,4 +4,4 @@ console.log(helloWorld);
 helloWorld.remove();
 
 const hello2 = document.getElementById("hello2");
-helloName.style.textAlign = "center";
+hello2.style.textAlign = "center";
